@@ -3,8 +3,8 @@
 Схема алгоритма тут 
 https://miro.com/app/board/o9J_llMbqyY=/?invite_link_id=913984598901
 
-**Как сгенерировать commitment:**
-in shell:
+**Как сгенерировать commitment:**  
+in shell:  
 ```
 pip3 install web3
 ```
